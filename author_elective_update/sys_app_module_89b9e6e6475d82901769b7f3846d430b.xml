@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Separator</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-04 14:32:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>89b9e6e6475d82901769b7f3846d430b</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Separator</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_89b9e6e6475d82901769b7f3846d430b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-04 14:40:18</sys_updated_on>
+        <timeline_page/>
+        <title>Separator</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>036d60a3db998910ad8dd7c8f49619a2</instance_id>
+        <instance_name>dev124100</instance_name>
+        <name>sys_app_module_89b9e6e6475d82901769b7f3846d430b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>Separator</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-04 14:32:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>89b9e6e6475d82901769b7f3846d430b</sys_id><sys_mod_count>6</sys_mod_count><sys_name>Separator</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_89b9e6e6475d82901769b7f3846d430b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-04 14:40:18</sys_updated_on><timeline_page/><title>Separator</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-426346288</payload_hash>
+        <record_name>Separator</record_name>
+        <reverted_from/>
+        <source>eaf22461473802101769b7f3846d4377</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-04 14:40:18</sys_created_on>
+        <sys_id>5c8b6a6a475d82901769b7f3846d4365</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ea98dae290000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-04 14:40:18</sys_updated_on>
+        <type>Module</type>
+        <update_guid>148b6a6ab35d829060f824f8119ce765</update_guid>
+        <update_guid_history>148b6a6ab35d829060f824f8119ce765:-426346288,797b6a6a585d82903ad51d04d1ebbef1:1876379105,a32b2a6a905d8290262c8d789b1c75b5:-1581344663,f4c9e6e6735d8290c4134f2f58ebe110:-426346288</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Separator">9b1c6aaa475d82901769b7f3846d43c3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-04 14:42:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>00337c2e118843a8a1ccd9cb3d59c910</sys_id>
+        <sys_metadata>89b9e6e6475d82901769b7f3846d430b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Separator</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_89b9e6e6475d82901769b7f3846d430b</sys_update_name>
+        <sys_update_version display_value="sys_app_module_89b9e6e6475d82901769b7f3846d430b">5c8b6a6a475d82901769b7f3846d4365</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-04 14:42:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
